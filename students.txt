@@ -1,0 +1,2 @@
+John,Smith,18,Male,1234,90,80,65,70
+Katelyn,Smith,17,Female,1235,90,85,80,75

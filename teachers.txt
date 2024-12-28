@@ -1,0 +1,2 @@
+Joe,Doe,28,Male,Math,5,300000
+Ketty,Smith,35,Female,Physics,11,500000
